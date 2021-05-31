@@ -1,0 +1,30 @@
+syntax: glob
+incubate
+.metadata
+build
+target
+.jw*
+dist
+bin
+*.bak
+classes
+deploy
+.svn
+*.bak
+*.class
+*.apk
+*.zip
+gen
+.settings
+proguard
+hs_err*
+files
+*~
+test-output
+
+
+# Default ignored files
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
+
